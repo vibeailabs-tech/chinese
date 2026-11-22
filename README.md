@@ -8,6 +8,7 @@ Bộ skill tiếng Trung của Vibe AI Labs, gộp từ các repo riêng. Mỗi 
 | [`docx-to-chinese-vocab`](docx-to-chinese-vocab) | Lọc từ được gạch chân trong file Word, rồi làm bảng từ vựng theo quy tắc của `chinese-vocab-tsv`. |
 | [`chinese-translate`](chinese-translate) | Dịch văn bản sang tiếng Trung giản thể và xuất file Word, tên riêng được tô vàng. Skill nằm trong `translate-zh-highlight/`. |
 | [`translate-zh-highlight`](translate-zh-highlight) | Gói zip của skill dịch và tô vàng tên riêng. Cùng skill với bản trong `chinese-translate`. |
+| [`anki-apkg-builder`](anki-apkg-builder) | Build file `.apkg` từ TSV từ vựng, dùng note type `SpoonFed++` sẵn có trong Anki. |
 
 Repo gốc vẫn còn trên GitHub:
 
