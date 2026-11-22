@@ -15,5 +15,6 @@ Repo gốc vẫn còn trên GitHub:
 
 - https://github.com/vibeailabs-tech/chinese-vocab-tsv
 - https://github.com/vibeailabs-tech/docx-to-chinese-vocab
+- https://github.com/vibeailabs-tech/docx-to-apkg
 - https://github.com/vibeailabs-tech/chinese-translate
 - https://github.com/vibeailabs-tech/translate-zh-highlight
